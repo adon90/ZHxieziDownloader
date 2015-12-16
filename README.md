@@ -1,6 +1,6 @@
 # ZHxieziDownloader
 
-Dowloads sneakers pictures
+Dowloads sneakers pictures.
 
 Requirements:
 
